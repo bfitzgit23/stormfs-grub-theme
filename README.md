@@ -1,0 +1,1 @@
+# hackjaro-grub-theme
