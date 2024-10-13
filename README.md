@@ -1,2 +1,2 @@
-# hackjaro-grub-theme
-grub theme for hackjaro
+# stormscratch-grub-theme
+grub theme for stormscratch
