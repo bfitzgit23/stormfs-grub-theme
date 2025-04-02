@@ -1,2 +1,2 @@
-# stormscratch-grub-theme
-grub theme for stormscratch
+# stormfs-grub-theme
+grub theme for stormfs
