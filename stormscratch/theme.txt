@@ -4,7 +4,7 @@
 
 # Settings
 title-text: ""
-title-color: "#21fc21"
+title-color: "#FFC101"
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-box: "terminal_box_*.png"
@@ -24,11 +24,11 @@ terminal-font: "Unifont Regular 16"
 }
 
 # Image logo
-+ image {
-	top = 13%
-	left = 50%-94
-    file = "logo.png"
-}
+#+ image {
+#	top = 13%
+#	left = 50%-94
+#    file = "logo.png"
+#}
 
 # Show countdown message
 + label {
@@ -38,7 +38,7 @@ terminal-font: "Unifont Regular 16"
 	align = "center"
 	id = "__timeout__"
 	text = "Booting in %d seconds"
-	color = "#21fc21"
+	color = "#FFC101"
 	font = "Unifont Regular 16"
 }
 
@@ -49,7 +49,7 @@ terminal-font: "Unifont Regular 16"
   	width = 50%
   	height = 60%
   	item_font = "Unifont Regular 16"
-  	item_color = "##21fc21"
+  	item_color = "#FFC101"
   	selected_item_color = "#011018"
   	icon_width = 26
   	icon_height = 26
